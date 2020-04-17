@@ -1,1 +1,30 @@
-# will add libraries we use here
+name: super_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imageio=2.8.0
+  - imagesize=1.2.0
+  - importlib-metadata=1.5.0
+  - intervaltree=3.0.2
+  - ipykernel=5.1.4
+  - ipython=7.13.0
+  - ipython-genutils=0.2.0
+  - ipywidgets=7.5.1
+  - imageio=2.8.0
+  - imagesize=1.2.0
+  - importlib-metadata=1.5.0
+  - intervaltree=3.0.2
+  - ipykernel=5.1.4
+  - ipython=7.13.0
+  - ipython-genutils=0.2.0
+  - ipywidgets=7.5.1
+  - numpy=1.18.1
+  - pandas=1.0.3
+  - scikit-image=0.16.2
+  - scikit-learn=0.22.1
+  - scipy=1.4.1
+  - seaborn=0.10.0
+  - unicodecsv=0.14.1
+  - urllib3=1.25.8
+prefix: /Users/paulwilliams/opt/anaconda3/envs/super_env

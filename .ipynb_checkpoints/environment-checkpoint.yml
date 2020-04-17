@@ -1,0 +1,6 @@
+name: super_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  
